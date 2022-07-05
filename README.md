@@ -15,11 +15,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Move.It é um aplicativo web baseado nas técnicas de pomodoro. Construido durante a NextLevelWeek da Rocketseat
+O Move.It é um aplicativo web baseado nas técnicas de pomodoro. Construido durante a NextLevelWeek #04 da Rocketseat
 
 ## 🔖 Deploy
 
-Este site está disponível para testes via Vercel pelo link: <a href="">Testar</a>
+Este site está disponível para testes via Vercel pelo link: <a href="https://move-it-risu.vercel.app">Testar</a>
 
 ## 🚀 Como executar
 
