@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Move.It é um aplicativo web baseado nas técnicas de pomodoro. Construido durante a NextLevelWeek #04 da Rocketseat
+O Move.It é um aplicativo web baseado nas técnicas de pomodoro.
 
 ## 🔖 Deploy
 
