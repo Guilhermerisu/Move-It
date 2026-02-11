@@ -1,35 +1,33 @@
-<div align="center">
-  <img src="https://github.com/Guilhermerisu/Move-It/blob/main/src/assets/logo.png" alt="MoveIt | ReactJS">
-</div>
 
   <img src="https://github.com/Guilhermerisu/Move-It/blob/main/src/assets/PreviewGif1.gif" alt="Gif preview 1">
   <img src="https://github.com/Guilhermerisu/Move-It/blob/main/src/assets/PreviewGif2.gif" alt="Gif preview 2">
 
-  ## ✨ Tecnologias
+  ## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 <div>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-## 💻 Projeto
+## 💻 Project
 
-O Move.It é um aplicativo web baseado nas técnicas de pomodoro.
+This project is a web application based on pomodoro techniques that uses RPG experience levels and exercises to prevent stiffness while working.
+
 
 ## 🔖 Deploy
 
-Este site está disponível para testes via Vercel pelo link: <a href="https://move-it-risu.vercel.app">Testar</a>
+This site is available for testing via Vercel via the link: <a href="https://move-it-risu.vercel.app">Test</a>
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
+- Clone the repository
+- Install dependencies with `yarn`
+- Start the server with `yarn dev`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+You can now access [`localhost:3000`](http://localhost:3000) from your browser.
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
